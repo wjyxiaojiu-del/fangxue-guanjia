@@ -1,5 +1,3 @@
-> **中文** | [English](README_en.md)
-
 # 放学帮 · 后端 API
 
 「放学帮」的 Next.js 后端服务，提供微信小程序所需的 REST API。
